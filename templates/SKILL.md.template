@@ -1,0 +1,28 @@
+# SKILL.md template
+# ใช้สร้าง skill ใหม่ใน sphere/skills/<name>/
+
+---
+name: <skill-name>
+description: "<คำอธิบายสั้นๆ 1-2 ประโยค>"
+version: 1.0.0
+author: natti
+---
+
+# <Skill Name>
+
+## เมื่อไหร่ควรใช้
+
+- ...
+
+## ขั้นตอน
+
+1. ...
+2. ...
+
+## Pitfalls
+
+- ...
+
+## Verification
+
+- ...
