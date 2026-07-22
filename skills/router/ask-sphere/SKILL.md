@@ -13,7 +13,8 @@ Skill router สำหรับ skills ทั้งหมดใน `sphere/skill
 1. **`sphere-grill-me`** — ปรับ idea ให้คมขึ้นก่อนเริ่ม ถ้ายังไม่มี codebase
 2. **`sphere-grilling`** — ถามลึกเรื่อง plan/decision/idea
 3. **`sphere-implement`** — implement ตาม spec หรือ tickets
-4. **`sphere-code-review`** — review changes ก่อน commit
+4. **`sphere-agy-worker`** — delegate งาน implement ให้ agy (Antigravity CLI) ช่วยทำ ประหยัด tokens
+5. **`sphere-code-review`** — review changes ก่อน commit
 
 ## On-ramps
 
