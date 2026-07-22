@@ -21,6 +21,7 @@ Skill router สำหรับ skills ทั้งหมดใน `sphere/skill
 - **อยากลองของก่อน** → **`sphere-prototype`** — throwaway prototype
 - **ต้องหาข้อมูลก่อน** → **`sphere-research`** — delegate reading ให้ background agent
 - **architecture เริ่มรก** → **`sphere-improve-codebase-architecture`** — scan โอกาสปรับปรุง
+- **อยากได้ second opinion ก่อน merge** → **`scrutinize`** — outsider-perspective end-to-end review
 
 ## Context management
 
@@ -33,6 +34,6 @@ Skill router สำหรับ skills ทั้งหมดใน `sphere/skill
 - **เขียน skill เอง** → **`sphere-writing-great-skills`** — reference สำหรับ writing skills
 - **เขียน content สำหรับผู้บริหาร** → **`management-talk`** — rewrite technical → leadership language
 
-## Other
+## Support
 
 - **OP-AI OLS Support** → **`op-ai`** — support orchestration
